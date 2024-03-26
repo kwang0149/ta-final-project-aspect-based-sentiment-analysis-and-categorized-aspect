@@ -1,0 +1,43 @@
+[
+  {
+    "data": {
+      "text": "Beautiful, comfortable and friendly hotel near the beach."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "from_name": "aspect",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 9,
+              "text": "Beautiful",
+              "labels": ["Aspect"]
+            }
+          },
+          {
+            "from_name": "opinion",
+            "to_name": "text",  
+            "type": "labels",
+            "value": {
+              "start": 12,
+              "end": 23,
+              "text": "comfortable",
+              "labels": ["Opinion"]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "to_name": "text",
+            "type": "choices",
+            "value": {
+              "choices": ["POS"]
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

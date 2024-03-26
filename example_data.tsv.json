@@ -1,0 +1,4 @@
+{"text": "yum !", "labels": [{"aspect": "NULL", "opinion": "yum", "polarity": "positive", "category": "FOOD#QUALITY"}]}
+{"text": "serves really good sushi .", "labels": [{"aspect": "sushi", "opinion": "good", "polarity": "positive", "category": "FOOD#QUALITY"}]}
+{"text": "not the biggest portions but adequate .", "labels": [{"aspect": "portions", "opinion": "not the biggest", "polarity": "neutral", "category": "FOOD#STYLE_OPTIONS"}, {"aspect": "portions", "opinion": "adequate", "polarity": "neutral", "category": "FOOD#STYLE_OPTIONS"}]}
+{"text": "green tea creme brulee is a must !", "labels": [{"aspect": "green tea creme brulee", "opinion": "must", "polarity": "positive", "category": "FOOD#QUALITY"}]}
