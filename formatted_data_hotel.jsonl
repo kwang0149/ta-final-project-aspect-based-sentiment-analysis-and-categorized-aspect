@@ -1,15 +1,3 @@
-// aspect category : service,environemnt, experience, facility,food, price
-// service : yang berhubungan maintanance oleh staff, perilaku staff,
-// *SERVICE#CLEANLINESS, SERVICE#STAFF, SERVICE#GENERAL
-// facility ex : shower, wifi, room, bed
-// FACILITY#BED, FACILITY#HOTEL , FACILITY#GENERAL, FACILITY#EXPERIENCE
-// environment ex: location
-// ENVIRONMENT#LOCATION, ENVIRONMENT#AMBIENCE
-// food: breakfast, food
-// FOOD
-// price : price,good/bad deal
-
-// experience : aktivitas,feel, comfortability, friendliness, etc.
 {"text": "Beautiful , comfortable and friendly hotel near the beach . Great value for the money . Good situation , next to a big mall and the beach . Rooms really comfortable , clean and no noisy . Wifi excellent .",
 "labels": [{"aspect": "money", "opinion": "Great value", "polarity": "POS", "category": "PRICE"}, {"aspect": "hotel", "opinion": "friendly", "polarity": "POS", "category": "EXPERIENCE"}, {"aspect": "hotel", "opinion": "comfortable", "polarity": "POS", "category": "EXPERIENCE"}, {"aspect": "hotel", "opinion": "Beautiful", "polarity": "POS", "category": "EXPERIENCE"}, {"aspect": "Rooms", "opinion": "comfortable", "polarity": "POS", "category": "SERVICE"}, {"aspect": "Rooms", "opinion": "clean", "polarity": "POS", "category": "CLEANLINESS"}, {"aspect": "Rooms", "opinion": "no noisy", "polarity": "POS", "category": "EXPERIENCE"}, {"aspect": "Wifi", "opinion": "excellent", "polarity": "POS", "category": "FACILITY"}, {"aspect": "beach", "opinion": "next to", "polarity": "POS", "category": "ENVIRONMENT"}, {"aspect": "mall", "opinion": "next to", "polarity": "POS", "category": "ENVIRONMENT"}]}
 {"text": "Room veeeeery big , comfortable big bed , hot shower , lush garden , pool and breakfast for 130k IDR in high season : what U want more ? Ok , no towel or sheet but . .",
