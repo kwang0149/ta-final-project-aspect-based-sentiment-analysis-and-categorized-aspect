@@ -1,0 +1,30 @@
+{"text": "Room veeeeery big , comfortable big bed , hot shower , lush garden , pool and breakfast for 130k IDR in high season : what U want more ? Ok , no towel or sheet but . .", 
+"labels": [
+    {"aspect": "bed", "opinion": "comfortable", "polarity": "POS", "category": "ROOM#BED"}, 
+    {"aspect": "shower", "opinion": "hot", "polarity": "NEU", "category": "ROOM#BATHROOM"}, 
+    {"aspect": "garden", "opinion": "lush", "polarity": "POS", "category": "FACILITY#GENERAL"}, 
+    {"aspect": "Room", "opinion": "big", "polarity": "POS", "category": "ROOM#SPACE"}, 
+    {"aspect": "no towel", "opinion": "Ok", "polarity": "NEU", "category": "FACILITY#GENERAL"}, 
+    {"aspect": "pool", "opinion": "130k IDR in high season", "polarity": "POS", "category": "FACILITY#POOL"}, 
+    {"aspect": "breakfast", "opinion": "130k IDR in high season", "polarity": "POS", "category": "HOTEL#PRICE"}]}
+{"text": "Beautiful , comfortable and friendly hotel near the beach . Great value for the money . Good situation , next to a big mall and the beach . Rooms really comfortable , clean and no noisy . Wifi excellent .", 
+"labels": [
+    {"aspect": "money", "opinion": "Great value", "polarity": "POS", "category": "HOTEL#PRICE"}, 
+    {"aspect": "hotel", "opinion": "friendly", "polarity": "POS", "category": "SERVICE#HOSPITALITY"}, 
+    {"aspect": "hotel", "opinion": "comfortable", "polarity": "POS", "category": "HOTEL#EXPERIENCE"}, 
+    {"aspect": "hotel", "opinion": "Beautiful", "polarity": "POS", "category": "HOTEL#AMBIENCE"}, 
+    {"aspect": "Rooms", "opinion": "comfortable", "polarity": "POS", "category": "ROOM#EXPERIENCE"}, 
+    {"aspect": "Rooms", "opinion": "clean", "polarity": "POS", "category": "ROOM#CLEANLINESS"}, 
+    {"aspect": "Rooms", "opinion": "no noisy", "polarity": "POS", "category": "ROOM#AMBIENCE"}, 
+    {"aspect": "Wifi", "opinion": "excellent", "polarity": "POS", "category": "FACILITY#WIFI"}, 
+    {"aspect": "beach", "opinion": "next to", "polarity": "POS", "category": "LOCATION#ATTRACTIONS"}, 
+    {"aspect": "mall", "opinion": "next to", "polarity": "POS", "category": "LOCATION#ENTERTAINMENT"}]}
+{"text": "Room veeeeery big , comfortable big bed , hot shower , lush garden , pool and breakfast for 130k IDR in high season : what U want more ? Ok , no towel or sheet but . .", 
+"labels": [
+    {"aspect": "bed", "opinion": "comfortable", "polarity": "POS", "category": "ROOM#BED"}, 
+    {"aspect": "shower", "opinion": "hot", "polarity": "NEU", "category": "ROOM#BATHROOM"}, 
+    {"aspect": "garden", "opinion": "lush", "polarity": "POS", "category": "FACILITY#GENERAL"}, 
+    {"aspect": "Room", "opinion": "big", "polarity": "POS", "category": "ROOM#SPACE"}, 
+    {"aspect": "no towel", "opinion": "Ok", "polarity": "NEU", "category": "FACILITY#GENERAL"}, 
+    {"aspect": "pool", "opinion": "130k IDR in high season", "polarity": "POS", "category": "FACILITY#POOL"}, 
+    {"aspect": "breakfast", "opinion": "130k IDR in high season", "polarity": "POS", "category": "HOTEL#PRICE"}]}
