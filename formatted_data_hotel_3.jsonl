@@ -4564,222 +4564,221 @@
 ]}
 {"text": "Solaris is a modern and nice hotel in Kuta , the staff is super friendly and they always are ready to help you . . . Pool , toilets , rooms are clean and always tidy . . . Well done Solaris ! ! Solaris is a modern and nice hotel in Kuta , the staff is super friendly and they always are ready to help you . . .",
 "labels": [
-{"aspect": "staff", "opinion": "friendly", "polarity": "POS", "category": null},
-{"aspect": "Pool", "opinion": "clean", "polarity": "POS", "category": null},
-{"aspect": "Pool", "opinion": "tidy", "polarity": "POS", "category": null},
-{"aspect": "toilets", "opinion": "clean", "polarity": "POS", "category": null},
-{"aspect": "toilets", "opinion": "tidy", "polarity": "POS", "category": null},
-{"aspect": "rooms", "opinion": "clean", "polarity": "POS", "category": null},
-{"aspect": "rooms", "opinion": "tidy", "polarity": "POS", "category": null},
-{"aspect": "hotel", "opinion": "nice", "polarity": "POS", "category": null},
-{"aspect": "staff", "opinion": "friendly", "polarity": "POS", "category": null},
-{"aspect": "staff", "opinion": "help", "polarity": "POS", "category": null}
+{"aspect": "staff", "opinion": "friendly", "polarity": "POS", "category": "SERVICE#HOSPITALITY"},
+{"aspect": "Pool", "opinion": "clean", "polarity": "POS", "category": "FACILITY#POOL"},
+{"aspect": "Pool", "opinion": "tidy", "polarity": "POS", "category": "FACILITY#POOL"},
+{"aspect": "toilets", "opinion": "clean", "polarity": "POS", "category": "ROOM#BATHROOM"},
+{"aspect": "toilets", "opinion": "tidy", "polarity": "POS", "category": "ROOM#BATHROOM"},
+{"aspect": "rooms", "opinion": "clean", "polarity": "POS", "category": "ROOM#CLEANLINESS"},
+{"aspect": "rooms", "opinion": "tidy", "polarity": "POS", "category": "ROOM#CLEANLINESS"},
+{"aspect": "hotel", "opinion": "nice", "polarity": "POS", "category": "HOTEL#GENERAL"},
+{"aspect": "staff", "opinion": "friendly", "polarity": "POS", "category": "SERVICE#HOSPITALITY"},
+{"aspect": "staff", "opinion": "help", "polarity": "POS", "category": "SERVICE#HOSPITALITY"}
 ]}
 {"text": "It ' s very new in Kuta area . It ' s clean , simplicity , stylish . The room is beautiful with purple color decorations . The guy that picked up us at the airport is friendly and courtesy . The only shortage is a little noisy due to its location close to the airport and the road .",
 "labels": [
-{"aspect": "It", "opinion": "clean", "polarity": "POS", "category": null},
-{"aspect": "It", "opinion": "simplicity", "polarity": "POS", "category": null},
-{"aspect": "It", "opinion": "stylish", "polarity": "POS", "category": null},
-{"aspect": "room", "opinion": "beautiful", "polarity": "POS", "category": null},
-{"aspect": "decorations", "opinion": "beautiful", "polarity": "POS", "category": null},
-{"aspect": "guy", "opinion": "friendly", "polarity": "POS", "category": null},
-{"aspect": "guy", "opinion": "courtesy", "polarity": "POS", "category": null},
-{"aspect": "location", "opinion": "noisy", "polarity": "NEG", "category": null}
+{"aspect": "It", "opinion": "clean", "polarity": "POS", "category": "HOTEL#CLEANLINESS"},
+{"aspect": "It", "opinion": "simplicity", "polarity": "POS", "category": "HOTEL#AMBIENCE"},
+{"aspect": "It", "opinion": "stylish", "polarity": "POS", "category": "HOTEL#AMBIENCE"},
+{"aspect": "room", "opinion": "beautiful", "polarity": "POS", "category": "ROOM#AMBIENCE"},
+{"aspect": "decorations", "opinion": "beautiful", "polarity": "POS", "category": "ROOM#AMBIENCE"},
+{"aspect": "guy", "opinion": "friendly", "polarity": "POS", "category": "SERVICE#HOSPITALITY"},
+{"aspect": "guy", "opinion": "courtesy", "polarity": "POS", "category": "SERVICE#HOSPITALITY"},
+{"aspect": "location", "opinion": "noisy", "polarity": "NEG", "category": "LOCATION#GENERAL"}
 ]}
 {"text": "The location and landscaping in the hotel is amazing . loved it . have a large swimming pool . Had some bad experience as well . One of the salad in the buffet was old and stinky . definitely i would have had bad stomach that day . so be careful what you eat at this hotel . very bad .",
 "labels": [
-{"aspect": "location", "opinion": "amazing", "polarity": "POS", "category": null},
-{"aspect": "landscaping", "opinion": "amazing", "polarity": "POS", "category": null},
-{"aspect": "pool", "opinion": "large", "polarity": "POS", "category": null},
-{"aspect": "experience", "opinion": "bad", "polarity": "NEG", "category": null},
-{"aspect": "salad", "opinion": "old", "polarity": "NEG", "category": null},
-{"aspect": "salad", "opinion": "stinky", "polarity": "NEG", "category": null},
-{"aspect": "stomach", "opinion": "bad", "polarity": "NEG", "category": null},
-{"aspect": "eat", "opinion": "careful", "polarity": "NEG", "category": null},
-{"aspect": "eat", "opinion": "very bad", "polarity": "NEG", "category": null}
+{"aspect": "location", "opinion": "amazing", "polarity": "POS", "category": "LOCATION#GENERAL"},
+{"aspect": "landscaping", "opinion": "amazing", "polarity": "POS", "category": "LOCATION#VIEW"},
+{"aspect": "pool", "opinion": "large", "polarity": "POS", "category": "FACILITY#POOL"},
+{"aspect": "experience", "opinion": "bad", "polarity": "NEG", "category": "HOTEL#EXPERIENCE"},
+{"aspect": "salad", "opinion": "old", "polarity": "NEG", "category": "FOOD#TASTE"},
+{"aspect": "salad", "opinion": "stinky", "polarity": "NEG", "category": "FOOD#TASTE"},
+{"aspect": "stomach", "opinion": "bad", "polarity": "NEG", "category": "HOTEL#EXPERIENCE"},
+{"aspect": "eat", "opinion": "careful", "polarity": "NEG", "category": "FOOD#GENERAL"},
+{"aspect": "eat", "opinion": "very bad", "polarity": "NEG", "category": "FOOD#TASTE"}
 ]}
 {"text": "Room was nice , clean and comfort to stay for holiday in bali . Wifi was good , fadilities is good worth to pay with excelent fasilities like a refrig available in the room good price and excelent service staff . The breakfast was delicious just need more variant of the menu .",
 "labels": [
-{"aspect": "menu", "opinion": "more variant", "polarity": "NEG", "category": null},
-{"aspect": "Room", "opinion": "nice", "polarity": "POS", "category": null},
-{"aspect": "Room", "opinion": "clean", "polarity": "POS", "category": null},
-{"aspect": "Room", "opinion": "comfort", "polarity": "POS", "category": null},
-{"aspect": "Wifi", "opinion": "good", "polarity": "POS", "category": null},
-{"aspect": "fadilities", "opinion": "good", "polarity": "POS", "category": null},
-{"aspect": "pay", "opinion": "worth", "polarity": "POS", "category": null},
-{"aspect": "fasilities", "opinion": "excelent", "polarity": "POS", "category": null},
-{"aspect": "price", "opinion": "good", "polarity": "POS", "category": null},
-{"aspect": "staff", "opinion": "excelent", "polarity": "POS", "category": null},
-{"aspect": "breakfast", "opinion": "delicious", "polarity": "POS", "category": null},
-{"aspect": "service", "opinion": "excelent", "polarity": "POS", "category": null}
+{"aspect": "menu", "opinion": "more variant", "polarity": "NEG", "category": "FOOD#CHOICE"},
+{"aspect": "Room", "opinion": "nice", "polarity": "POS", "category": "ROOM#GENERAL"},
+{"aspect": "Room", "opinion": "clean", "polarity": "POS", "category": "ROOM#CLEANLINESS"},
+{"aspect": "Room", "opinion": "comfort", "polarity": "POS", "category": "ROOM#EXPERIENCE"},
+{"aspect": "Wifi", "opinion": "good", "polarity": "POS", "category": "FACILITY#WIFI"},
+{"aspect": "fadilities", "opinion": "good", "polarity": "POS", "category": "FACILITY#GENERAL"},
+{"aspect": "pay", "opinion": "worth", "polarity": "POS", "category": "HOTEL#PRICE"},
+{"aspect": "fasilities", "opinion": "excelent", "polarity": "POS", "category": "FACILITY#GENERAL"},
+{"aspect": "price", "opinion": "good", "polarity": "POS", "category": "HOTEL#PRICE"},
+{"aspect": "staff", "opinion": "excelent", "polarity": "POS", "category": "SERVICE#HOSPITALITY"},
+{"aspect": "breakfast", "opinion": "delicious", "polarity": "POS", "category": "FOOD#TASTE"},
+{"aspect": "service", "opinion": "excelent", "polarity": "POS", "category": "SERVICE#GENERAL"}
 ]}
 {"text": "The exterior and lobby are great looking , however the rooms are in fairly bad looking shape . We only stayed here one night but the staff was friendly and helpful . The location was also great if you ' re interested in staying near the night life in Kuta as there was a band playing next door . Great price - - got what we paid for .",
 "labels": [
-{"aspect": "exterior", "opinion": "great looking", "polarity": "POS", "category": null},
-{"aspect": "lobby", "opinion": "great looking", "polarity": "POS", "category": null},
-{"aspect": "rooms", "opinion": "bad", "polarity": "NEG", "category": null},
-{"aspect": "staff", "opinion": "friendly", "polarity": "POS", "category": null},
-{"aspect": "staff", "opinion": "helpful", "polarity": "POS", "category": null},
-{"aspect": "location", "opinion": "great", "polarity": "POS", "category": null},
-{"aspect": "night life", "opinion": "near", "polarity": "POS", "category": null},
-{"aspect": "price", "opinion": "Great", "polarity": "POS", "category": null}
+{"aspect": "exterior", "opinion": "great looking", "polarity": "POS", "category": "HOTEL#AMBIENCE"},
+{"aspect": "lobby", "opinion": "great looking", "polarity": "POS", "category": "HOTEL#AMBIENCE"},
+{"aspect": "rooms", "opinion": "bad", "polarity": "NEG", "category": "ROOM#GENERAL"},
+{"aspect": "staff", "opinion": "friendly", "polarity": "POS", "category": "SERVICE#HOSPITALITY"},
+{"aspect": "staff", "opinion": "helpful", "polarity": "POS", "category": "SERVICE#HOSPITALITY"},
+{"aspect": "location", "opinion": "great", "polarity": "POS", "category": "LOCATION#GENERAL"},
+{"aspect": "night life", "opinion": "near", "polarity": "POS", "category": "LOCATION#ENTERTAINMENT"},
+{"aspect": "price", "opinion": "Great", "polarity": "POS", "category": "HOTEL#PRICE"}
 ]}
 {"text": "It a good hotel , friendly and cheap . But can be found it is old . Thought clarks are nice , but cleaning did not do well . Someone left trash in my bar fridge before we arrive , that means cleaners didn ' t check all the room when they were working .",
 "labels": [
-{"aspect": "hotel", "opinion": "good", "polarity": "POS", "category": null},
-{"aspect": "hotel", "opinion": "friendly", "polarity": "POS", "category": null},
-{"aspect": "hotel", "opinion": "cheap", "polarity": "POS", "category": null},
-{"aspect": "hotel", "opinion": "old", "polarity": "NEG", "category": null},
-{"aspect": "clarks", "opinion": "nice", "polarity": "POS", "category": null},
-{"aspect": "cleaning", "opinion": "not do well", "polarity": "NEG", "category": null},
-{"aspect": "cleaning", "opinion": "trash", "polarity": "NEG", "category": null},
-{"aspect": "cleaners", "opinion": "didn ' t check", "polarity": "NEG", "category": null}
+{"aspect": "hotel", "opinion": "good", "polarity": "POS", "category": "HOTEL#GENERAL"},
+{"aspect": "hotel", "opinion": "friendly", "polarity": "POS", "category": "SERVICE#HOSPITALITY"},
+{"aspect": "hotel", "opinion": "cheap", "polarity": "POS", "category": "HOTEL#PRICE"},
+{"aspect": "hotel", "opinion": "old", "polarity": "NEG", "category": "HOTEL#AMBIENCE"},
+{"aspect": "clarks", "opinion": "nice", "polarity": "POS", "category": "HOTEL#GENERAL"},
+{"aspect": "cleaning", "opinion": "not do well", "polarity": "NEG", "category": "ROOM#CLEANLINESS"},
+{"aspect": "cleaning", "opinion": "trash", "polarity": "NEG", "category": "ROOM#CLEANLINESS"},
+{"aspect": "cleaners", "opinion": "didn ' t check", "polarity": "NEG", "category": "ROOM#CLEANLINESS"}
 ]}
 {"text": "One of the worst hotel in BALI ! Bar Service - Really bad , Quality of drinks really bad once ordered drink had just ice n ice . Room - dirty and not really disappointing Bad internet & room service Staff - service was terrible HIGHLY DON'T recommend this PLACE !",
 "labels": [
-{"aspect": "hotel", "opinion": "worst", "polarity": "NEG", "category": null},
-{"aspect": "Bar Service", "opinion": "bad", "polarity": "NEG", "category": null},
-{"aspect": "drinks", "opinion": "bad", "polarity": "NEG", "category": null},
-{"aspect": "Room", "opinion": "dirty", "polarity": "NEG", "category": null},
-{"aspect": "internet", "opinion": "Bad", "polarity": "NEG", "category": null},
-{"aspect": "room service", "opinion": "Bad", "polarity": "NEG", "category": null},
-{"aspect": "Staff", "opinion": "Bad", "polarity": "NEG", "category": null},
-{"aspect": "service", "opinion": "terrible", "polarity": "NEG", "category": null},
-{"aspect": "PLACE", "opinion": "DON'T recommend", "polarity": "NEG", "category": null}
+{"aspect": "hotel", "opinion": "worst", "polarity": "NEG", "category": "HOTEL#GENERAL"},
+{"aspect": "Bar Service", "opinion": "bad", "polarity": "NEG", "category": "SERVICE#HOSPITALITY"},
+{"aspect": "drinks", "opinion": "bad", "polarity": "NEG", "category": "FOOD#TASTE"},
+{"aspect": "Room", "opinion": "dirty", "polarity": "NEG", "category": "ROOM#CLEANLINESS"},
+{"aspect": "internet", "opinion": "Bad", "polarity": "NEG", "category": "FACILITY#WIFI"},
+{"aspect": "room service", "opinion": "Bad", "polarity": "NEG", "category": "SERVICE#GENERAL"},
+{"aspect": "Staff", "opinion": "Bad", "polarity": "NEG", "category": "SERVICE#HOSPITALITY"},
+{"aspect": "service", "opinion": "terrible", "polarity": "NEG", "category": "SERVICE#GENERAL"},
+{"aspect": "PLACE", "opinion": "DON'T recommend", "polarity": "NEG", "category": "HOTEL#GENERAL"}
 ]}
 {"text": "This is my second visit , very good hotel from my perception , i have got what I need , nice receptionist especially . very good breakfast i thinks they have a lot choice of foods . over all better . and comfortable to stay here .",
 "labels": [
-{"aspect": "hotel", "opinion": "good", "polarity": "POS", "category": null},
-{"aspect": "breakfast", "opinion": "good", "polarity": "POS", "category": null},
-{"aspect": "foods", "opinion": "lot choice", "polarity": "POS", "category": null},
-{"aspect": "stay", "opinion": "comfortable", "polarity": "POS", "category": null}
+{"aspect": "hotel", "opinion": "good", "polarity": "POS", "category": "HOTEL#GENERAL"},
+{"aspect": "breakfast", "opinion": "good", "polarity": "POS", "category": "FOOD#TASTE"},
+{"aspect": "foods", "opinion": "lot choice", "polarity": "POS", "category": "FOOD#CHOICE"},
+{"aspect": "stay", "opinion": "comfortable", "polarity": "POS", "category": "HOTEL#EXPERIENCE"}
 ]}
 {"text": "It was Nyepi 2013 and we were stay there to hide with all family and my baby boy . Room was nice with an interconecting door . service was pretty quick when we had problem with our room key card . Restaurant was small but good service and the buffet was not bad at all .",
 "labels": [
-{"aspect": "buffet", "opinion": "not bad", "polarity": "NEU", "category": null},
-{"aspect": "Room", "opinion": "nice", "polarity": "POS", "category": null},
-{"aspect": "service", "opinion": "quick", "polarity": "POS", "category": null},
-{"aspect": "key card", "opinion": "problem", "polarity": "NEG", "category": null},
-{"aspect": "Restaurant", "opinion": "small", "polarity": "NEG", "category": null},
-{"aspect": "service", "opinion": "good", "polarity": "POS", "category": null}
+{"aspect": "buffet", "opinion": "not bad", "polarity": "NEU", "category": "FOOD#GENERAL"},
+{"aspect": "Room", "opinion": "nice", "polarity": "POS", "category": "ROOM#GENERAL"},
+{"aspect": "service", "opinion": "quick", "polarity": "POS", "category": "SERVICE#GENERAL"},
+{"aspect": "key card", "opinion": "problem", "polarity": "NEG", "category": "ROOM#GENERAL"},
+{"aspect": "Restaurant", "opinion": "small", "polarity": "NEG", "category": "FOOD#GENERAL"},
+{"aspect": "service", "opinion": "good", "polarity": "POS", "category": "SERVICE#GENERAL"}
 ]}
 {"text": "The Ozz Hotel is a nice property in Kuta . The room was very comfortable and clean , though the pillows were a bit large . The hotel had a very good pool and a very friendly staff . If you want to stay in Kuta near the beach , I would recommend this place .",
 "labels": [
-{"aspect": "property", "opinion": "nice", "polarity": "POS", "category": null},
-{"aspect": "room", "opinion": "comfortable", "polarity": "POS", "category": null},
-{"aspect": "room", "opinion": "clean", "polarity": "POS", "category": null},
-{"aspect": "pillows", "opinion": "large", "polarity": "NEG", "category": null},
-{"aspect": "pool", "opinion": "good", "polarity": "POS", "category": null},
-{"aspect": "staff", "opinion": "friendly", "polarity": "POS", "category": null},
-{"aspect": "beach", "opinion": "near", "polarity": "POS", "category": null},
-{"aspect": "place", "opinion": "recommend", "polarity": "POS", "category": null}
+{"aspect": "property", "opinion": "nice", "polarity": "POS", "category": "HOTEL#GENERAL"},
+{"aspect": "room", "opinion": "comfortable", "polarity": "POS", "category": "ROOM#EXPERIENCE"},
+{"aspect": "room", "opinion": "clean", "polarity": "POS", "category": "ROOM#CLEANLINESS"},
+{"aspect": "pillows", "opinion": "large", "polarity": "NEG", "category": "ROOM#BED"},
+{"aspect": "staff", "opinion": "friendly", "polarity": "POS", "category": "SERVICE#HOSPITALITY"},
+{"aspect": "beach", "opinion": "near", "polarity": "POS", "category": "HOTEL#GENERAL"},
+{"aspect": "place", "opinion": "recommend", "polarity": "POS", "category": "HOTEL#GENERAL"}
 ]}
 {"text": "Great hotel team always welcoming . Suki , Linna , Tris and Elly are fantastic , they will assist you with any requests . Located centrally . Can be noisey due to guests talking loudly in corridors . Close to convenience store .",
 "labels": [
-{"aspect": "hotel team", "opinion": "Great", "polarity": "POS", "category": null},
-{"aspect": "hotel team", "opinion": "welcoming", "polarity": "POS", "category": null},
-{"aspect": "Suki", "opinion": "fantastic", "polarity": "POS", "category": null},
-{"aspect": "Linna", "opinion": "fantastic", "polarity": "POS", "category": null},
-{"aspect": "Tris", "opinion": "fantastic", "polarity": "POS", "category": null},
-{"aspect": "Elly", "opinion": "fantastic", "polarity": "POS", "category": null},
-{"aspect": "Suki", "opinion": "assist", "polarity": "POS", "category": null},
-{"aspect": "Linna", "opinion": "assist", "polarity": "POS", "category": null},
-{"aspect": "Tris", "opinion": "assist", "polarity": "POS", "category": null},
-{"aspect": "Elly", "opinion": "assist", "polarity": "POS", "category": null},
-{"aspect": "Located", "opinion": "centrally", "polarity": "POS", "category": null},
-{"aspect": "guests", "opinion": "noisey", "polarity": "NEG", "category": null},
-{"aspect": "convenience store", "opinion": "Close", "polarity": "POS", "category": null}
+{"aspect": "hotel team", "opinion": "Great", "polarity": "POS", "category": "SERVICE#HOSPITALITY"},
+{"aspect": "hotel team", "opinion": "welcoming", "polarity": "POS", "category": "SERVICE#HOSPITALITY"},
+{"aspect": "Suki", "opinion": "fantastic", "polarity": "POS", "category": "SERVICE#HOSPITALITY"},
+{"aspect": "Linna", "opinion": "fantastic", "polarity": "POS", "category": "SERVICE#HOSPITALITY"},
+{"aspect": "Tris", "opinion": "fantastic", "polarity": "POS", "category": "SERVICE#HOSPITALITY"},
+{"aspect": "Elly", "opinion": "fantastic", "polarity": "POS", "category": "SERVICE#HOSPITALITY"},
+{"aspect": "Suki", "opinion": "assist", "polarity": "POS", "category": "SERVICE#ASSISTANCE"},
+{"aspect": "Linna", "opinion": "assist", "polarity": "POS", "category": "SERVICE#ASSISTANCE"},
+{"aspect": "Tris", "opinion": "assist", "polarity": "POS", "category": "SERVICE#ASSISTANCE"},
+{"aspect": "Elly", "opinion": "assist", "polarity": "POS", "category": "SERVICE#ASSISTANCE"},
+{"aspect": "Located", "opinion": "centrally", "polarity": "POS", "category": "LOCATION#CENTRAL_CITY"},
+{"aspect": "guests", "opinion": "noisey", "polarity": "NEG", "category": "HOTEL#EXPERIENCE"},
+{"aspect": "convenience store", "opinion": "Close", "polarity": "POS", "category": "LOCATION#NEARBY_AMENITIES"}
 ]}
 {"text": "Modern , Clean , great location . Close to Reef Break , Lots of good little restaurants ( Warongs ) nearby Nice Buffet Breakfast , the pool is long enough to swim laps . You won ' t beat this one for value , we tried a few other Kuta Hotels that were around the same price and they were smelly dumps .",
 "labels": [
-{"aspect": "location", "opinion": "Modern", "polarity": "POS", "category": null},
-{"aspect": "location", "opinion": "Clean", "polarity": "POS", "category": null},
-{"aspect": "location", "opinion": "great", "polarity": "POS", "category": null},
-{"aspect": "Reef Break", "opinion": "Close", "polarity": "POS", "category": null},
-{"aspect": "restaurants", "opinion": "good", "polarity": "POS", "category": null},
-{"aspect": "Breakfast", "opinion": "Nice", "polarity": "POS", "category": null},
-{"aspect": "value", "opinion": "won ' t beat", "polarity": "POS", "category": null},
-{"aspect": "pool", "opinion": "long enough", "polarity": "POS", "category": null}
+{"aspect": "NULL", "opinion": "Modern", "polarity": "POS", "category": "HOTEL#AMBIENCE"},
+{"aspect": "NULL", "opinion": "Clean", "polarity": "POS", "category": "HOTEL#CLEANLINESS"},
+{"aspect": "location", "opinion": "great", "polarity": "POS", "category": "LOCATION#GENERAL"},
+{"aspect": "Reef Break", "opinion": "Close", "polarity": "POS", "category": "LOCATION#ATTRACTIONS"},
+{"aspect": "restaurants", "opinion": "good", "polarity": "POS", "category": "FOOD#GENERAL"},
+{"aspect": "Breakfast", "opinion": "Nice", "polarity": "POS", "category": "FOOD#TASTE"},
+{"aspect": "value", "opinion": "won ' t beat", "polarity": "POS", "category": "HOTEL#PRICE"},
+{"aspect": "pool", "opinion": "long enough", "polarity": "POS", "category": "FACILITY#POOL"}
 ]}
 {"text": "I think , everything about this hotel is good and of course with affordable price . Everything in my room goes well . air conditioner , balcony , swimming pool , breakfast , and I really recommended you . The location is good to , near sunset road .",
 "labels": [
-{"aspect": "everything", "opinion": "good", "polarity": "POS", "category": null},
-{"aspect": "hotel", "opinion": "good", "polarity": "POS", "category": null},
-{"aspect": "price", "opinion": "affordable", "polarity": "POS", "category": null},
-{"aspect": "room", "opinion": "goes well", "polarity": "POS", "category": null},
-{"aspect": "air conditioner", "opinion": "goes well", "polarity": "POS", "category": null},
-{"aspect": "balcony", "opinion": "goes well", "polarity": "POS", "category": null},
-{"aspect": "pool", "opinion": "goes well", "polarity": "POS", "category": null},
-{"aspect": "breakfast", "opinion": "goes well", "polarity": "POS", "category": null},
-{"aspect": "hotel", "opinion": "recommended", "polarity": "POS", "category": null},
-{"aspect": "location", "opinion": "good", "polarity": "POS", "category": null},
-{"aspect": "sunset road", "opinion": "near", "polarity": "POS", "category": null}
+{"aspect": "everything", "opinion": "good", "polarity": "POS", "category": "HOTEL#GENERAL"},
+{"aspect": "hotel", "opinion": "good", "polarity": "POS", "category": "HOTEL#GENERAL"},
+{"aspect": "price", "opinion": "affordable", "polarity": "POS", "category": "FOOD#PRICE"},
+{"aspect": "room", "opinion": "goes well", "polarity": "POS", "category": "ROOM#GENERAL"},
+{"aspect": "air conditioner", "opinion": "goes well", "polarity": "POS", "category": "ROOM#AIRCON"},
+{"aspect": "balcony", "opinion": "goes well", "polarity": "POS", "category": "ROOM#FACILITY"},
+{"aspect": "pool", "opinion": "goes well", "polarity": "POS", "category": "FACILITY#POOL"},
+{"aspect": "breakfast", "opinion": "goes well", "polarity": "POS", "category":"FOOD#GENERAL"},
+{"aspect": "hotel", "opinion": "recommended", "polarity": "POS", "category": "HOTEL#GENERAL"},
+{"aspect": "location", "opinion": "good", "polarity": "POS", "category": "LOCATION#GENERAL"},
+{"aspect": "sunset road", "opinion": "near", "polarity": "POS", "category": "LOCATION#MAIN_STREET"}
 ]}
 {"text": "Before continuing my travel on my arrival from Europe I stayed at this hotel near the airport to handle a jet leg and to relax . I had a wonderful good time at the pool , chatting with the ever so kind and interested staff , using the free shuttle service to a shopping mall at the beach and enjoying good food , drinks and massages . Loved the pool !",
 "labels": [
-{"aspect": "staff", "opinion": "interested", "polarity": "POS", "category": null},
-{"aspect": "pool", "opinion": "good time", "polarity": "POS", "category": null},
-{"aspect": "pool", "opinion": "wonderful", "polarity": "POS", "category": null},
-{"aspect": "food", "opinion": "good", "polarity": "POS", "category": null},
-{"aspect": "drinks", "opinion": "good", "polarity": "POS", "category": null},
-{"aspect": "massages", "opinion": "good", "polarity": "POS", "category": null},
-{"aspect": "pool", "opinion": "Loved", "polarity": "POS", "category": null}
+{"aspect": "staff", "opinion": "interested", "polarity": "POS", "category": "SERVICE#HOSPITALITY"},
+{"aspect": "pool", "opinion": "good time", "polarity": "POS", "category": "FACILITY#POOL"},
+{"aspect": "pool", "opinion": "wonderful", "polarity": "POS", "category": "FACILITY#POOL"},
+{"aspect": "food", "opinion": "good", "polarity": "POS", "category": "FOOD#TASTE"},
+{"aspect": "drinks", "opinion": "good", "polarity": "POS", "category": "FOOD#TASTE"},
+{"aspect": "massages", "opinion": "good", "polarity": "POS", "category": "SERVICE#AMENITIES"},
+{"aspect": "pool", "opinion": "Loved", "polarity": "POS", "category": "FACILITY#POOL"}
 ]}
 {"text": "Rooms need more soundproofing . Can hear noise from people talking outside , doors closing and toilets flushing . Our room smelt a bit musty but were spacious and clean . Fridge didn ' t work but was quickly fixed Some towels not clean but were changed . Rooftop pool was nice in evening .",
 "labels": [
-{"aspect": "Rooms", "opinion": "noise", "polarity": "NEG", "category": null},
-{"aspect": "room", "opinion": "smelt", "polarity": "NEG", "category": null},
-{"aspect": "room", "opinion": "musty", "polarity": "NEG", "category": null},
-{"aspect": "Fridge", "opinion": "didn ' t work", "polarity": "NEG", "category": null},
-{"aspect": "towels", "opinion": "not clean", "polarity": "NEG", "category": null},
-{"aspect": "room", "opinion": "spacious", "polarity": "POS", "category": null},
-{"aspect": "room", "opinion": "clean", "polarity": "POS", "category": null},
-{"aspect": "Fridge", "opinion": "quickly fixed", "polarity": "POS", "category": null},
-{"aspect": "towels", "opinion": "changed", "polarity": "POS", "category": null}
+{"aspect": "Rooms", "opinion": "noise", "polarity": "NEG", "category": "ROOM#EXPERIENCE"},
+{"aspect": "room", "opinion": "smelt", "polarity": "NEG", "category": "ROOM#CLEANLINESS"},
+{"aspect": "room", "opinion": "musty", "polarity": "NEG", "category": "ROOM#CLEANLINESS"},
+{"aspect": "Fridge", "opinion": "didn ' t work", "polarity": "NEG", "category": "ROOM#FACILITY"},
+{"aspect": "towels", "opinion": "not clean", "polarity": "NEG", "category": "ROOM#BATHROOM"},
+{"aspect": "room", "opinion": "spacious", "polarity": "POS", "category": "ROOM#SPACE"},
+{"aspect": "room", "opinion": "clean", "polarity": "POS", "category": "ROOM#CLEANLINESS"},
+{"aspect": "Fridge", "opinion": "quickly fixed", "polarity": "POS", "category": "SERVICE#ASSISTANCE"},
+{"aspect": "towels", "opinion": "changed", "polarity": "POS", "category": "ROOM#BATHROOM"}
 ]}
 {"text": "This is a very good hotel , clean and big room and friendly staff , the only thing is the location , which is a little far from the beach but we walked the day that we stayed there . The breakfast was buffet but is more Asian food than western . I recommended only for the room .",
 "labels": [
-{"aspect": "hotel", "opinion": "good", "polarity": "POS", "category": null},
-{"aspect": "room", "opinion": "clean", "polarity": "POS", "category": null},
-{"aspect": "room", "opinion": "big", "polarity": "POS", "category": null},
-{"aspect": "staff", "opinion": "friendly", "polarity": "POS", "category": null},
-{"aspect": "location", "opinion": "far", "polarity": "NEG", "category": null},
-{"aspect": "beach", "opinion": "far", "polarity": "NEG", "category": null},
-{"aspect": "breakfast", "opinion": "more Asian food", "polarity": "NEG", "category": null},
-{"aspect": "room", "opinion": "recommended", "polarity": "POS", "category": null}
+{"aspect": "hotel", "opinion": "good", "polarity": "POS", "category": "HOTEL#GENERAL"},
+{"aspect": "room", "opinion": "clean", "polarity": "POS", "category": "ROOM#CLEANLINESS"},
+{"aspect": "room", "opinion": "big", "polarity": "POS", "category": "ROOM#SPACE"},
+{"aspect": "staff", "opinion": "friendly", "polarity": "POS", "category": "SERVICE#HOSPITALITY"},
+{"aspect": "location", "opinion": "NULL", "polarity": "NEG", "category": "LOCATION#GENERAL"},
+{"aspect": "beach", "opinion": "far", "polarity": "NEG", "category": "LOCATION#ATTRACTIONS"},
+{"aspect": "breakfast", "opinion": "more Asian food", "polarity": "NEG", "category": "FOOD#CHOICE"},
+{"aspect": "room", "opinion": "recommended", "polarity": "POS", "category": "ROOM#GENERAL"}
 ]}
 {"text": "I have stayed in Pandawa for 2 weeks and was very pleased . It was clean , staff was friendly . Only internet was weak . Also we didn ' t like food . Breakfast was so weak and wasnt tasty at all . I advice future costumers to eat out .",
 "labels": [
-{"aspect": "Pandawa", "opinion": "clean", "polarity": "POS", "category": null},
-{"aspect": "stayed", "opinion": "pleased", "polarity": "POS", "category": null},
-{"aspect": "staff", "opinion": "friendly", "polarity": "POS", "category": null},
-{"aspect": "internet", "opinion": "weak", "polarity": "NEG", "category": null},
-{"aspect": "food", "opinion": "didn ' t like", "polarity": "NEG", "category": null},
-{"aspect": "Breakfast", "opinion": "weak", "polarity": "NEG", "category": null},
-{"aspect": "Breakfast", "opinion": "wasnt tasty", "polarity": "NEG", "category": null}
+{"aspect": "Pandawa", "opinion": "clean", "polarity": "POS", "category": "HOTEL#CLEANLINESS"},
+{"aspect": "stayed", "opinion": "pleased", "polarity": "POS", "category": "HOTEL#EXPERIENCE"},
+{"aspect": "staff", "opinion": "friendly", "polarity": "POS", "category": "SERVICE#HOSPITALITY"},
+{"aspect": "internet", "opinion": "weak", "polarity": "NEG", "category": "FACILITY#WIFI"},
+{"aspect": "food", "opinion": "didn ' t like", "polarity": "NEG", "category": "FOOD#TASTE"},
+{"aspect": "Breakfast", "opinion": "weak", "polarity": "NEG", "category": "FOOD#TASTE"},
+{"aspect": "Breakfast", "opinion": "wasnt tasty", "polarity": "NEG", "category": "FOOD#TASTE"}
 ]}
 {"text": "Clean rooms . . . Very low water pressure in our room . . . We had a 2nd story room and could see the water . . . Was impressed with massage . . . All in all clean and tidy . . .",
 "labels": [
-{"aspect": "rooms", "opinion": "Clean", "polarity": "POS", "category": null},
-{"aspect": "water", "opinion": "low", "polarity": "NEG", "category": null},
-{"aspect": "massage", "opinion": "impressed", "polarity": "POS", "category": null},
-{"aspect": "All", "opinion": "clean", "polarity": "POS", "category": null},
-{"aspect": "All", "opinion": "tidy", "polarity": "POS", "category": null}
+{"aspect": "rooms", "opinion": "Clean", "polarity": "POS", "category": "ROOM#CLEANLINESS"},
+{"aspect": "water", "opinion": "low", "polarity": "NEG", "category": "ROOM#BATHROOM"},
+{"aspect": "massage", "opinion": "impressed", "polarity": "POS", "category": "SERVICE#AMENITIES"},
+{"aspect": "All", "opinion": "clean", "polarity": "POS", "category": "ROOM#CLEANLINESS"},
+{"aspect": "All", "opinion": "tidy", "polarity": "POS", "category": "ROOM#CLEANLINESS"}
 ]}
 {"text": "Although it isn ' t located at main street , but its location is easy to reach and find . This room and bathroom are big enough . It has an outdoor swimming pool . It is very comfortable staying here . The room rate also very reasonable .",
 "labels": [
-{"aspect": "location", "opinion": "easy", "polarity": "POS", "category": null},
-{"aspect": "room", "opinion": "big", "polarity": "POS", "category": null},
-{"aspect": "bathroom", "opinion": "big", "polarity": "POS", "category": null},
-{"aspect": "staying", "opinion": "comfortable", "polarity": "POS", "category": null},
-{"aspect": "room", "opinion": "reasonable", "polarity": "POS", "category": null}
+{"aspect": "location", "opinion": "easy", "polarity": "POS", "category": "LOCATION#GENERAL"},
+{"aspect": "room", "opinion": "big", "polarity": "POS", "category": "ROOM#SPACE"},
+{"aspect": "bathroom", "opinion": "big", "polarity": "POS", "category": "ROOM#BATHROOM"},
+{"aspect": "staying", "opinion": "comfortable", "polarity": "POS", "category": "HOTEL#EXPERIENCE"},
+{"aspect": "room rate", "opinion": "reasonable", "polarity": "POS", "category": "HOTEL#PRICE"}
 ]}
 {"text": "It is a beautiful hotel . I personally loves the room interior . But couldn ' t enjoy it more when on the very first and last night there i spent my bedtime scratching . And it were not mosquitos . They were bed bugs ! ! Nasty !",
 "labels": [
-{"aspect": "bed bugs", "opinion": "Nasty", "polarity": "NEG", "category": null},
-{"aspect": "bedtime", "opinion": "scratching", "polarity": "NEG", "category": null},
-{"aspect": "hotel", "opinion": "beautiful", "polarity": "POS", "category": null},
-{"aspect": "room interior", "opinion": "loves", "polarity": "POS", "category": null}
+{"aspect": "bed bugs", "opinion": "Nasty", "polarity": "NEG", "category": "ROOM#BED"},
+{"aspect": "bedtime", "opinion": "scratching", "polarity": "NEG", "category": "ROOM#BED"},
+{"aspect": "hotel", "opinion": "beautiful", "polarity": "POS", "category": "HOTEL#EXPERIENCE"},
+{"aspect": "room interior", "opinion": "loves", "polarity": "POS", "category": "ROOM#AMBIENCE"}
 ]}
 {"text": "This hotel is in a fantastic location , with awesome views to the lake and the volcanos . The room was nice , simple and clean , and the service was kind . But the bathrooms . . . . the bathrooms are terrible ! uncomfortable , with a feeling of dirtiness , nothing to hung a towel . . .",
 "labels": [
