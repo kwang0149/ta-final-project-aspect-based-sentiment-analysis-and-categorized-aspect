@@ -4782,16 +4782,16 @@
 ]}
 {"text": "This hotel is in a fantastic location , with awesome views to the lake and the volcanos . The room was nice , simple and clean , and the service was kind . But the bathrooms . . . . the bathrooms are terrible ! uncomfortable , with a feeling of dirtiness , nothing to hung a towel . . .",
 "labels": [
-{"aspect": "location", "opinion": "fantastic", "polarity": "POS", "category": null},
-{"aspect": "views", "opinion": "awesome", "polarity": "POS", "category": null},
-{"aspect": "lake", "opinion": "awesome", "polarity": "POS", "category": null},
-{"aspect": "volcanos", "opinion": "awesome", "polarity": "POS", "category": null},
-{"aspect": "room", "opinion": "nice", "polarity": "POS", "category": null},
-{"aspect": "room", "opinion": "simple", "polarity": "POS", "category": null},
-{"aspect": "room", "opinion": "clean", "polarity": "POS", "category": null},
-{"aspect": "service", "opinion": "kind", "polarity": "POS", "category": null},
-{"aspect": "bathrooms", "opinion": "terrible", "polarity": "NEG", "category": null},
-{"aspect": "bathrooms", "opinion": "dirtiness", "polarity": "NEG", "category": null}
+{"aspect": "location", "opinion": "fantastic", "polarity": "POS", "category": "LOCATION#GENERAL"},
+{"aspect": "views", "opinion": "awesome", "polarity": "POS", "category": "LOCATION#VIEW"},
+{"aspect": "lake", "opinion": "awesome views", "polarity": "POS", "category": "LOCATION#VIEW"},
+{"aspect": "volcanos", "opinion": "awesome views", "polarity": "POS", "category": "LOCATION#VIEW"},
+{"aspect": "room", "opinion": "nice", "polarity": "POS", "category": "ROOM#GENERAL"},
+{"aspect": "room", "opinion": "simple", "polarity": "POS", "category": "ROOM#GENERAL"},
+{"aspect": "room", "opinion": "clean", "polarity": "POS", "category": "ROOM#CLEANLINESS"},
+{"aspect": "service", "opinion": "kind", "polarity": "POS", "category": "SERVICE#GENERAL"},
+{"aspect": "bathrooms", "opinion": "terrible", "polarity": "NEG", "category": "ROOM#BATHROOM"},
+{"aspect": "bathrooms", "opinion": "dirtiness", "polarity": "NEG", "category": "ROOM#BATHROOM"}
 ]}
 {"text": "We didn ' t stay at the hotel , they have a nice restaurant out the front . Staff were friendly food was very presentable . Great spot to take a break from the hectic shopping , cool drinks mix juice was very nice .",
 "labels": [
